@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://henry-jia.github.io/sitemap-index.xml
